@@ -15,9 +15,13 @@ Addressing class imbalance and improving model performance for minority classes.
 The dataset consists of images of fruits categorized into the following classes:
 
 Fresh Dragon Fruit
+
 Rust Spot
+
 Soft Rot Fruit
+
 Stem Canker
+
 Dataset Statistics
 
 Class	Number of Samples
@@ -42,7 +46,9 @@ fruit-disease-classification/
 └── .gitignore               # Files and folders to ignore in Git
 
 1. Data Preprocessing
+   
 2. Training the Model
+   
 3. Evaluating the Model
 
 # Model Performance
@@ -61,7 +67,9 @@ Weighted Avg F1-Score: 0.91
 # Key Observations
 
 The model performs well for majority classes (Fresh Dragon Fruit, Soft Rot Fruit).
+
 Poor performance for the minority class (Stem Canker) due to class imbalance.
+
 Recommendations for improvement include addressing class imbalance and collecting more data for minority classes.
 
 # Contributing
@@ -77,7 +85,7 @@ Submit a pull request.
 
 Name : Shruti Sakhare
 
-Email: shrutirsakhare.com
+Email: shrutirsakhare@gmail.com
 
 GitHub:https://github.com/shrutisakhare21
 
