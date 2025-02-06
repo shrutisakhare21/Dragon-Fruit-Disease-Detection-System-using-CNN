@@ -75,7 +75,7 @@ Submit a pull request.
 
 # For questions or feedback, please contact:
 
-Your Name : Shruti Sakhare
+Name : Shruti Sakhare
 Email: shrutirsakhare.com
 GitHub:https://github.com/shrutisakhare21
 
