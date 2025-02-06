@@ -51,19 +51,20 @@ fruit-disease-classification/
    
 3. Evaluating the Model
 
-# Model Performance
 
+## **Model Performance**
 The model's performance is evaluated using precision, recall, and F1-score. Below are the results:
 
-Class	Precision	Recall	F1-Score	Support
-Fresh Dragon Fruit	0.95	0.87	0.91	2000
-Rust Spot	0.51	0.95	0.66	642
-Soft Rot Fruit	0.99	0.91	0.95	4050
-Stem Canker	0.00	0.00	0.00	32
-Accuracy: 90%
-Macro Avg F1-Score: 0.63
-Weighted Avg F1-Score: 0.91
+| Class               | Precision | Recall | F1-Score | Support |
+|---------------------|-----------|--------|----------|---------|
+| Fresh Dragon Fruit  | 0.95      | 0.87   | 0.91     | 2000    |
+| Rust Spot           | 0.51      | 0.95   | 0.66     | 642     |
+| Soft Rot Fruit      | 0.99      | 0.91   | 0.95     | 4050    |
+| Stem Canker         | 0.00      | 0.00   | 0.00     | 32      |
 
+- **Accuracy**: 90%
+- **Macro Avg F1-Score**: 0.63
+- **Weighted Avg F1-Score**: 0.91
 # Key Observations
 
 The model performs well for majority classes (Fresh Dragon Fruit, Soft Rot Fruit).
