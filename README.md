@@ -71,8 +71,6 @@ The model performs well for majority classes (Fresh Dragon Fruit, Soft Rot Fruit
 
 Poor performance for the minority class (Stem Canker) due to class imbalance.
 
-Recommendations for improvement include addressing class imbalance and collecting more data for minority classes.
-
 # Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
