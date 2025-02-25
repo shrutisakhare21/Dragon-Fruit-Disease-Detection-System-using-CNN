@@ -1,7 +1,7 @@
 # Dragon-Fruit-Disease-Detection-System-using-CNN
 # Overview
 
-This project focuses on classifying Dragon fruit into different categories based on their health conditions, such as "Fresh Dragon Fruit and Diseased Dragon Fruit ". The goal is to build a machine learning model that can accurately identify and classify fruits into these categories using image data.
+This project focuses on classifying Dragon fruit into different categories based on their health conditions, such as "Fresh Dragon Fruit and Diseased Dragon Fruit." The goal is to build a machine learning model that can accurately identify and classify fruits into these categories using image data.
 
 # The project involves:
 
@@ -21,15 +21,6 @@ Rust Spot
 Soft Rot Fruit
 
 Stem Canker
-
-Dataset Statistics
-
-Class	Number of Samples
-Fresh Dragon Fruit	2000
-Rust Spot	642
-Soft Rot Fruit	4050
-Stem Canker	32
-Dataset Source
 
 The dataset is created by us.
 
@@ -65,11 +56,6 @@ The model's performance is evaluated using precision, recall, and F1-score. Belo
 - **Accuracy**: 90%
 - **Macro Avg F1-Score**: 0.63
 - **Weighted Avg F1-Score**: 0.91
-# Key Observations
-
-The model performs well for majority classes (Fresh Dragon Fruit, Soft Rot Fruit).
-
-Poor performance for the minority class (Stem Canker) due to class imbalance.
 
 # Contributing
 
