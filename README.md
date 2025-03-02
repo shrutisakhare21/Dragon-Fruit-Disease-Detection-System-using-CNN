@@ -26,20 +26,8 @@ The dataset is created by us.
 
 # Project Structure
 
-fruit-disease-classification/
-├── data/                    # Folder containing the dataset
-├── models/                  # Saved models
-├── notebooks/               # Jupyter notebooks for experimentation
-├── scripts/                 # Python scripts for training and evaluation
-├── utils/                   # Utility functions and helpers
-├── requirements.txt         # List of dependencies
-├── README.md                # Project documentation
-└── .gitignore               # Files and folders to ignore in Git
-
-1. Data Preprocessing
-   
+1. Data Preprocessing  
 2. Training the Model
-   
 3. Evaluating the Model
 
 
@@ -69,7 +57,6 @@ Submit a pull request.
 # For questions or feedback, please contact:
 
 Name : Shruti Sakhare
-
 Email: shrutirsakhare@gmail.com
 
 
