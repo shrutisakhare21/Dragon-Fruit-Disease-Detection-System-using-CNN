@@ -72,5 +72,4 @@ Name : Shruti Sakhare
 
 Email: shrutirsakhare@gmail.com
 
-GitHub:https://github.com/shrutisakhare21
 
