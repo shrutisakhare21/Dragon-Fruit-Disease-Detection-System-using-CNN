@@ -56,7 +56,6 @@ Submit a pull request.
 
 # For questions or feedback, please contact:
 
-Name : Shruti Sakhare
 Email: shrutirsakhare@gmail.com
 
 
