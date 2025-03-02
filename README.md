@@ -1,4 +1,4 @@
-# Dragon-Fruit-Disease-Detection-System-using-CNN
+# Dragon Fruit Disease Detection System Using CNN
 # Overview
 
 This project focuses on classifying Dragon fruit into different categories based on their health conditions, such as "Fresh Dragon Fruit and Diseased Dragon Fruit." The goal is to build a machine learning model that can accurately identify and classify fruits into these categories using image data.
