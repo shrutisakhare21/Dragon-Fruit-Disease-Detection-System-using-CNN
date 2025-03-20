@@ -1,4 +1,3 @@
-streamlit
-scikit-learn
-pandas
-numpy
+Streamlit
+Jupyter Notebook
+VS code
