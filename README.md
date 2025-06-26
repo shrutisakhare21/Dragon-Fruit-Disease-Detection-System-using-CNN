@@ -31,19 +31,21 @@ The dataset is created by us.
 3. Evaluating the Model
 
 
-## **Model Performance**
-The model's performance is evaluated using precision, recall, and F1-score. Below are the results:
+## Model Performance
+
+The model's performance is evaluated using **Precision**, **Recall**, and **F1-Score**.
 
 | Class               | Precision | Recall | F1-Score | Support |
 |---------------------|-----------|--------|----------|---------|
-| Fresh Dragon Fruit  | 0.95      | 0.87   | 0.91     | 2000    |
-| Rust Spot           | 0.51      | 0.95   | 0.66     | 642     |
-| Soft Rot Fruit      | 0.99      | 0.91   | 0.95     | 4050    |
-| Stem Canker         | 0.00      | 0.00   | 0.00     | 32      |
+| Fresh Dragon Fruit  | 0.98      | 0.98   | 0.98     | 2000    |
+| Rust Spot           | 0.80      | 0.69   | 0.74     | 643     |
+| Soft Rot Fruit      | 0.96      | 0.97   | 0.96     | 4050    |
+| Stem Canker         | 0.93      | 0.95   | 0.94     | 946     |
 
-- **Accuracy**: 90%
-- **Macro Avg F1-Score**: 0.63
-- **Weighted Avg F1-Score**: 0.91
+**Accuracy**: 0.95  
+**Macro Avg F1-Score**: 0.91  
+**Weighted Avg F1-Score**: 0.95  
+**Total Samples**: 7639
 
 # Contributing
 
